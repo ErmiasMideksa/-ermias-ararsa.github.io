@@ -1,0 +1,10 @@
+title: "Ermias Ararsa Mideksa"
+description: "Scientific Portfolio | ESPCI, IMAP, INSA Toulouse"
+theme: minimal-mistakes-jekyll
+url: "https://ermias-ararsa.github.io"
+baseurl: ""
+plugins:
+  - jekyll-include-cache
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
